@@ -5,4 +5,16 @@ image: /img/hello_world.jpeg
 tags: [random, exciting-stuff]
 ---
 
-This is my first post, how exciting!
+El primer intento de posteo donde vamos a contar quienes somos.
+
+Director de Laboratorio: Dr. Jorge Codnia
+
+Estudiantes de doctorado:
+
+Matías Risaro
+Marcelo Luda
+Nicols Gómez
+
+Estudiantes de Licenciatura:
+
+Martina Nolasco
